@@ -1,4 +1,4 @@
-# amigosecreto
+# Amigo Secreto
 Challengue de Alura del programa One Next Education de Oracle
 
 Amigo Secreto 🎁
