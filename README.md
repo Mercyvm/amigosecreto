@@ -2,6 +2,7 @@
 Challengue de Alura del programa One Next Education de Oracle
 
 Amigo Secreto 🎁
+
 ¡Bienvenido a la aplicación Amigo Secreto! Este proyecto permite a los usuarios agregar nombres de amigos a una lista, realizar un sorteo aleatorio y eliminar a los ganadores para evitar repeticiones.
 
 Funcionalidades ✨
