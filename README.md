@@ -6,6 +6,7 @@ Amigo Secreto 🎁
 ¡Bienvenido a la aplicación Amigo Secreto! Este proyecto permite a los usuarios agregar nombres de amigos a una lista, realizar un sorteo aleatorio y eliminar a los ganadores para evitar repeticiones.
 
 Funcionalidades ✨
+
 Agregar nombres: Escribe el nombre de un amigo en el campo de texto y presiona Enter o haz clic en "Añadir" para agregarlo a la lista.
 
 Validación de entrada: Si el campo está vacío, se mostrará una alerta pidiendo un nombre válido.
